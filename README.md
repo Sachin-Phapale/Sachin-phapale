@@ -122,7 +122,7 @@ class SachinPhapale:
 <td width="50%" valign="top">
 
 ### 🔹 Journify – Personal Journaling App
-[![Journify](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/sachinphapale/Journify)
+[![Journify](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/Sachin-Phapale/journalApplication)
 
 A secure journaling system enabling users to add, view, and delete journal entries with full authentication and authorization support.
 
@@ -142,7 +142,7 @@ A secure journaling system enabling users to add, view, and delete journal entri
 <td width="50%" valign="top">
 
 ### 🔹 AlgoArena – DSA Progress Tracker
-[![AlgoArena](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/sachinphapale/AlgoArena)
+[![AlgoArena](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://algoarena-e0db4.firebaseapp.com/)
 
 A full-stack DSA tracking web app with real-time Firestore sync, letting users manage and track problem-solving progress efficiently.
 
