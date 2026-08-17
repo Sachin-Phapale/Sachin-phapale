@@ -23,39 +23,44 @@
 
 ## 💡 About Me
 
-```python
-class SachinPhapale:
-    def __init__(self):
-        self.name = "Sachin Phapale"
-        self.role = "Java Full Stack Developer"
-        self.location = "Pune, Maharashtra, India"
-        self.education = "BE in Artificial Intelligence and Data Science"
-        self.cgpa = "8.43 / 10"
-        self.current_learning = ["Microservices Architecture", "Azure Cloud"]
+```java
+public class SachinPhapale {
 
-    def skills(self):
-        return [
+    private final String name = "Sachin Phapale";
+    private final String role = "Java Full Stack Developer";
+    private final String location = "Pune, Maharashtra, India";
+    private final String education = "BE in Artificial Intelligence and Data Science";
+    private final String cgpa = "8.43 / 10";
+    private final List<String> currentLearning = List.of("Microservices Architecture", "Azure Cloud");
+
+    public List<String> skills() {
+        return List.of(
             "Java (8, 17)", "Spring Boot 3", "Spring MVC", "Spring Security",
             "Spring Data JPA", "Spring Data Redis", "Spring Kafka",
             "Microservices", "Docker", "REST APIs", "MySQL", "PostgreSQL",
             "MongoDB", "Redis", "Apache Kafka", "React.js"
-        ]
+        );
+    }
 
-    def experience(self):
-        return {
-            "TheEuropeSchool": "SDE Intern (09/2025 – 02/2026)"
-        }
+    public Map<String, String> experience() {
+        return Map.of(
+            "TheEuropeSchool", "SDE Intern (09/2025 – 02/2026)"
+        );
+    }
 
-    def achievements(self):
-        return [
+    public List<String> achievements() {
+        return List.of(
             "LeetCode 100-Day Streak (2025)",
             "LeetCode 50-Day Streak (2025 & 2026)",
             "250+ LeetCode Problems Solved",
             "CGPA: 8.43 / 10"
-        ]
+        );
+    }
 
-    def motto(self):
-        return "Always ready to learn, build, and grow in tech! 🚀"
+    public String motto() {
+        return "Always ready to learn, build, and grow in tech! 🚀";
+    }
+}
 ```
 
 <div align="center">
@@ -243,3 +248,4 @@ _I solve DSA problems daily and build scalable backend systems for fun! 🚀_
 **⭐️ From [sachinphapale](https://github.com/sachinphapale)**
 
 </div>
+
