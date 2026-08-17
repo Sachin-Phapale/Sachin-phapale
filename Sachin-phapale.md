@@ -183,26 +183,6 @@ A production-grade, decoupled full-stack platform with a category-aware quote re
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinphapale&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&icon_color=00D9FF&title_color=00D9FF&bg_color=0D1117&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sachinphapale&theme=tokyonight&hide_border=false&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinphapale&layout=compact&theme=tokyonight&hide_border=false&title_color=00D9FF&text_color=00D9FF&bg_color=0D1117)
-
-### 📊 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinphapale&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=00D9FF&bg_color=0D1117)
-
-</div>
-
----
-
 ## 🏅 Certifications & Achievements
 
 <div align="center">
@@ -235,17 +215,6 @@ A production-grade, decoupled full-stack platform with a category-aware quote re
 
 <div align="center">
 
-### ⚡ Fun Fact
-_I solve DSA problems daily and build scalable backend systems for fun! 🚀_
-
-![Profile Views](https://komarev.com/ghpvc/?username=sachinphapale&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-![GitHub followers](https://img.shields.io/github/followers/sachinphapale?label=Followers&style=for-the-badge&color=00D9FF&labelColor=black)
-![GitHub stars](https://img.shields.io/github/stars/sachinphapale?label=Total%20Stars&style=for-the-badge&color=00D9FF&labelColor=black)
-
----
-
 **⭐️ From [sachinphapale](https://github.com/sachinphapale)**
 
 </div>
-
